@@ -1,4 +1,3 @@
-
 ;(function($) {
   $.fn.goodThumbnail = function(options) {
     var options = $.extend({}, $.fn.goodThumbnail.defaults, options)
